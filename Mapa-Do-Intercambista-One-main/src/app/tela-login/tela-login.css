@@ -45,7 +45,6 @@ h2 {
 .link-cadastro {
   color: #1b0fa0;
   font-weight: 600;
-  text-decoration: none;
 }
 
 .link-cadastro:hover {
@@ -64,4 +63,11 @@ img {
     box-shadow: none;
     padding: 30px;
   }
+}
+
+.botao{
+  background: none;
+  border: none;
+  color:#1b0fa0;
+  text-decoration: underline;
 }
